@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap');
 
-/* Reset */
+/* reset */
 
 * {
     margin: 0;
@@ -286,7 +286,7 @@
 
 /* media query */
 
-@media (min-width: 763px) {
+@media (min-width: 653px) {
 .content {
       padding-top: 120px;
 }
